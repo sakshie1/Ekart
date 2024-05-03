@@ -1,0 +1,3 @@
+open command-prompt
+activate virtual environment 
+run command (python manage.py runserver)
